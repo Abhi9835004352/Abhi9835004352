@@ -21,6 +21,13 @@
 - ⚡ Fun Fact: **I love debugging more than coding**
 
 ---
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/abhi9835004352/abhi9835004352/blob/output/snake.svg" alt="Snake animation" />
+</p>
+
+---
 
 ### 🌐 Connect with Me
 
@@ -64,14 +71,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi9835004352&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/abhi9835004352/abhi9835004352/blob/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
