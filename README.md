@@ -15,9 +15,9 @@
 ### 🧠 About Me
 
 - 🌱 Currently learning **DevOps, CI/CD, Kubernetes, and Cloud Platforms**
-- 💬 Ask me about **MERN Stack, NestJS, Docker, System Design**
+- 💬 Ask me about **MERN Stack, NextJS, Docker**
 - 📫 Reach me at: **abhishekforitutor@gmail.com**
-- 📄 [Check out my Resume](https://drive.google.com/file/d/1NNY8D415c87NDdMBVYee3mQHzhWoFO1a/view?usp=sharing)
+- 📄 [Check out my Resume](https://drive.google.com/file/d/1rnHBS2Ht02etz7cPaEZaZY6Lx1g9pb8M/view?usp=sharing)
 - ⚡ Fun Fact: **I love debugging more than coding**
 
 ---
